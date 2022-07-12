@@ -1,15 +1,17 @@
-## Oii, eu sou a Renata 
+## Oii, eu sou a Renata 👋🏻
 <div align="center">
   <a href="https://github.com/renatabfs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatabfs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
+  
 <div style="display: inline_block"><br>
+
   <img align="center" alt="Renata-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Renata-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Renata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Renata-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Renata-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/67f2389c03e0de031c2429c334743805/709fb2cdd8326197-2e/s400x600/d0c592de46ab7409d4016568f50ad5d898c29f65.jpg">
+  <img align="right" alt="Renata-pic" height="150" width ="200" style="border-radius:50px;" src="https://static.wikia.nocookie.net/liberproeliis/images/c/c0/674df468be43c062b27b9c773528f54e.gif/revision/latest?cb=20191206214532&path-prefix=pt-br">
 </div>
   
   ##
