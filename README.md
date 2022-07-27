@@ -35,6 +35,8 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=renatabfs&&theme=xcode)](https://github.com/renatabfs)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renatabfs&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="renatabfs" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renatabfs&show_icons=true&locale=en&theme=tokyonight" alt="renatabfs" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renatabfs&&theme=tokyonight" alt="renatabfs" /></p>
