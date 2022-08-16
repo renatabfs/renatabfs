@@ -10,7 +10,7 @@
 
 - 🔭 Atualmente trabalho no **@DIT-IFAL**
 
-- 🌱 Estou aprendendo **Flutter**
+- 🌱 Estou aprendendo **TypeScript**
 
 - 📫 Me contate: **renatabeatrizfs1@gmail.com**
 
