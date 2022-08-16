@@ -1,6 +1,6 @@
 ![MasterHead](https://img.wattpad.com/2b6d1509224f859057c4469140faf7ed5fe9def4/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f325a6e3057706c587846414c37673d3d2d3834323339343337302e313566363562356136376435383233363831353334343734363330302e676966)
 <h1 align="center">Oii 👋, Sou a Renata</h1>
-<h3 align="center">Atualmente uma desenvolvedora Front-End.</h3>
+<h3 align="center"Desenvolvedora Front-End.</h3>
 <img align="right" alt="Coding" width="400" src="https://66.media.tumblr.com/5625b65e58ca7e58e227ac4ed4d8ab6e/beac65286062eb98-8c/s500x750/c215f9cfb3d97be515483ede60e7737a9ad466ea.gif">
 
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/lizfilter" target="blank"><img src="https://img.shields.io/twitter/follow/lizfilter?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
 
-- 🔭 Atualmente trabalho apenas no meu projeto **M&M Learning**
+- 🔭 Atualmente trabalho no **@DIT-IFAL**
 
 - 🌱 Estou aprendendo **Flutter**
 
