@@ -8,13 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/lizfilter" target="blank"><img src="https://img.shields.io/twitter/follow/lizfilter?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
 
-- 🔭 Atualmente trabalho no **@DIT-IFAL**
+- 🔭 Trabalho no **@DIT-IFAL**
 
 - 🌱 Estou aprendendo **TypeScript**
-
-- 📫 Me contate: **renatabeatrizfs1@gmail.com**
-
-- 🙂 Pronouns: **Ela/Dela**
 
 <h3 align="left">🌐 Minhas redes: </h3>
 <a href="https://www.linkedin.com/in/reanata-beatriz-bbba4623b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renata-beatriz-bbba4623b" height="30" width="40" /></a>
