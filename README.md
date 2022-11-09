@@ -1,4 +1,3 @@
-
 <h1 align="center">Oii 👋, Sou a Renata</h1>
 <h3 align="center"Desenvolvedora Front-End.</h3>
 <img align="right" alt="Coding" width="400" src="https://66.media.tumblr.com/5625b65e58ca7e58e227ac4ed4d8ab6e/beac65286062eb98-8c/s500x750/c215f9cfb3d97be515483ede60e7737a9ad466ea.gif">
@@ -6,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renatabfs&label=Profile%20views&color=0e75b6&style=flat" alt="renatabfs" /> </p>
 
-<p align="left"> <a href="https://twitter.com/lizfilter" target="blank"><img src="https://img.shields.io/twitter/follow/lizfilter?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lizfilter" target="blank"><img src="https://img.shields.io/twitter/follow/lizfilter?logo=twitter&style=for-the-badge" alt="renatabfs" /></a> </p>
 
-- 🔭 Trabalho no **@DIT-IFAL**
-
-- 🌱 Estou aprendendo **TypeScript**
+<p align ="left">- 🔭 Trabalho no **@DIT-IFAL**</p>
+<p align ="left">- 🌱 Estou aprendendo **TypeScript**</p>
 
 <h3 align="left">🌐 Minhas redes:
+  </br>
 <a href="https://instagram.com/renatabfs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="renatabfs_" height="30" width="40" /></a>
 
 </p>
