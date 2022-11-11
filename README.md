@@ -7,11 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/lizfilter" target="blank"><img src="https://img.shields.io/twitter/follow/lizfilter?logo=twitter&style=for-the-badge" alt="renatabfs" /></a> </p>
 
-<p align ="left">- 🔭 Trabalho no **@DIT-IFAL**</p>
-<p align ="left">- 🌱 Estou aprendendo **TypeScript**</p>
+<p align ="left">- 🔭 Trabalho no Núcleo de Desenvolvimento e Inovação Tecnológica - IFAL</p>
+<p align ="left">- 🌱 Estou aprendendo TypeScript</p>
 
 <h3 align="left">🌐 Minhas redes:
   </br>
+    </br>
 <a href="https://instagram.com/renatabfs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="renatabfs_" height="30" width="40" /></a>
 
 </p>
