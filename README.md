@@ -18,13 +18,13 @@
 
 ### 💌 Redes ⤵️
 <p align="left">
-  <a href="renata_bfs@hotmail.com" alt="Gmail">
+  <a href="malito:renata_bfs@hotmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=renata_bfs@hotmail.com" height="20px" /></a>
 
   <a href="https://www.linkedin.com/in/renata-beatriz-bbba4623b/" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/renata-beatriz-bbba4623b/" height ="20px"/></a>
 
-  <a href="www.instagram.com/renatabfs_" alt="Instagram">
+  <a href="https://www.instagram.com/renatabfs_" alt="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=www.instagram.com/renatabfs_" height="20px"/></a>
 </p>  
 
