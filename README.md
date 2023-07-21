@@ -34,4 +34,5 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=renatabfs&show_icons=true&theme=chartreuse-dark&layout=compact"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatabfs&theme=chartreuse-dark&layout=compact" />
+<img alt="achievements" src="https://github-profile-trophy.vercel.app/?username=renatabfs&theme=matrix&margin-w=8&column=4&count_private=true&rank=S,AAA,B" />
 
