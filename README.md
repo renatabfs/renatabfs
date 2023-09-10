@@ -29,8 +29,6 @@
 </p>  
 
 ### 📊 Stats
-
-![Snake animation](https://github.com/renatabfs/renatabfs/blob/output/github-contribution-grid-snake.svg)
   
 <img src="https://github-readme-stats.vercel.app/api?username=renatabfs&show_icons=true&theme=chartreuse-dark&layout=compact"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatabfs&theme=chartreuse-dark&layout=compact" />
