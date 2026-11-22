@@ -32,5 +32,7 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=renatabfs&show_icons=true&theme=chartreuse-dark&layout=compact"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatabfs&theme=chartreuse-dark&layout=compact" />
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=renatabfs&layout=compact)](https://github.com/stats-organization/github-stats-extended)
-
+<img
+  alt="achievements"
+  src="https://trophy.ryglcloud.net/?username=renatabfs&theme=matrix&margin-w=8&column=4&count_private=true&rank=S,AAA,B"
+/>
